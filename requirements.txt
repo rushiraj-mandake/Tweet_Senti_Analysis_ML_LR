@@ -4,3 +4,4 @@ joblib==1.5.2
 datasets==4.4.1
 nltk==3.9.2
 tqdm==4.67.1
+numpy==2.2.6
