@@ -1,0 +1,6 @@
+pandas==2.3.3
+scikit-learn==1.7.2
+joblib==1.5.2
+datasets==4.4.1
+nltk==3.9.2
+tqdm==4.67.1
