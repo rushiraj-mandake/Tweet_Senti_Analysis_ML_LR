@@ -5,3 +5,4 @@ datasets==4.4.1
 nltk==3.9.2
 tqdm==4.67.1
 numpy==2.2.6
+streamlit==1.52.1
