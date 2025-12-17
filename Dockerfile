@@ -10,9 +10,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 ############ Copy Application Files ############
 
-COPY . .
-COPY pipe.pkl .
+#COPY . .
+#COPY pipe.pkl .
 
 ############ Run Application ############
 
-CMD ["python", "app.py"]
+#CMD ["python", "app.py"]
