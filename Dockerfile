@@ -9,6 +9,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 ############ Copy Application Files ############
+EXPOSE 8000
 
 #COPY . .
 #COPY pipe.pkl .
